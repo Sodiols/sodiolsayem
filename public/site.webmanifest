@@ -1,0 +1,21 @@
+{
+  "name": "Sodiol Sayem Portfolio",
+  "short_name": "Sodiol",
+  "description": "Frontend developer portfolio built with Next.js, Tailwind CSS, Firebase, and clean responsive UI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafcff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
